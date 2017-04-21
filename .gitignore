@@ -1,0 +1,5 @@
+.DS_Store    # osx
+*.swp        # vim
+*.swo        # vim
+*.gem        # locally built gem
+Gemfile.lock # gem convention
